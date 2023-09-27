@@ -35,11 +35,13 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// La requête est un attribut privée de type String et il retourne "requête analysée"
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// La fonction comparerDonnes est de type String et un attribut de type private, il retourne la valeur "Cluster trouvé"
 		return "Cluster trouvé";
 	}
 
